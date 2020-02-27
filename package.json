@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "giphy-api": "^2.0.1",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.1.0",
+    "ytdl-core": "^1.0.0"
+  }
+}
